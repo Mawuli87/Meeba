@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activities.MomoPaymentActivity"
+    tools:showIn="@layout/activity_momo_payment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="20dp"
+            android:id="@+id/closeActivity"
+            android:layout_marginEnd="20dp"
+            android:src="@drawable/ic_arrow_close_black_24dp" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            app:cardElevation="0dp"
+            app:cardPreventCornerOverlap="false"
+            app:contentPadding="4dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/labelLayout"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    app:errorTextColor="@android:color/holo_red_dark"
+                    android:layout_marginEnd="12dp"
+                    android:hint="Enter Phone number"
+                    app:errorEnabled="true">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/labelInput"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableStart="@drawable/label_selector"
+                        android:drawablePadding="5dp"
+                        android:inputType="phone"
+                        android:maxLines="1" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/descriptionLayou"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginEnd="12dp"
+                    android:hint="Select Network"
+                    app:errorEnabled="true">
+
+                    <androidx.appcompat.widget.AppCompatSpinner
+                        android:id="@+id/descriptionInput"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableEnd="@drawable/description_selector"
+                        android:drawablePadding="5dp"
+                        android:inputType="text|textMultiLine" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <!--                 <TextView-->
+                <!--                    android:id="@+id/tv_network"-->
+                <!--                    android:layout_width="wrap_content"-->
+                <!--                    android:layout_height="wrap_content"-->
+                <!--                    android:layout_marginStart="4dp"-->
+                <!--                    android:layout_marginTop="16dp"-->
+                <!--                    android:textSize="18sp"-->
+                <!--                    android:text="@string/hint_select_network" />-->
+
+                <!--                <Spinner-->
+                <!--                    android:id="@+id/spinner_network"-->
+                <!--                    style="@style/spinner_style" />-->
+
+                <Button
+                    android:id="@+id/btn_pay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/purple_700"
+                    android:maxLines="1"
+                    android:text="@string/btn_save"
+                    android:textColor="@color/white" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

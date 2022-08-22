@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "880558981741",
+    "firebase_url": "https://meeba-2b86a-default-rtdb.firebaseio.com",
+    "project_id": "meeba-2b86a",
+    "storage_bucket": "meeba-2b86a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880558981741:android:c510671aa5139b9895f564",
+        "android_client_info": {
+          "package_name": "com.aisisabeem.Meeba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880558981741-hj4mtlh4bfiud6cunnrs5cbkse7kdvml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUsHCi0LdK_ALDBcFoBUgFap7Zm2e2oTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880558981741-hj4mtlh4bfiud6cunnrs5cbkse7kdvml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880558981741-6piel99qm4in6i8o5ancl7i8e8u31faq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meeba-sisia.meeba-business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880558981741:android:9c5fb3a7b92bb47395f564",
+        "android_client_info": {
+          "package_name": "com.meeba_sisia.meeba_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880558981741-hj4mtlh4bfiud6cunnrs5cbkse7kdvml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUsHCi0LdK_ALDBcFoBUgFap7Zm2e2oTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880558981741-hj4mtlh4bfiud6cunnrs5cbkse7kdvml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880558981741-6piel99qm4in6i8o5ancl7i8e8u31faq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meeba-sisia.meeba-business"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

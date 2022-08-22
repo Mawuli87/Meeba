@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.aisisabeem.Meeba">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission
+        android:name="android.permission.READ_PHONE_STATE"
+        android:maxSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/Theme.Meeba"
+        tools:targetApi="m">
+        <activity
+            android:name=".activities.MomoPaymentActivity"
+            android:theme="@style/Theme.meebaCustom"
+            android:exported="false" />
+        <activity
+            android:name=".activities.HowToPayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sub_requests.SubDestinationActivity"
+            android:exported="false"
+            android:label="Sub-request Details" />
+        <activity
+            android:name=".sub_requests.SubRequestActivity"
+            android:exported="false"
+            android:label="Meeba Sub request" />
+        <activity
+            android:name=".activities.CompletedRequestActivity"
+            android:exported="false" />
+
+        <receiver
+            android:name=".notification.Notification"
+            android:enabled="true" />
+
+        <activity
+            android:name=".activities.MyProfileActivity"
+            android:theme="@style/Theme.meebaCustom" />
+        <activity
+            android:name=".home.destination.DestinationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.SignInActivity"
+            android:exported="false"
+            android:theme="@style/Theme.meebaCustom" />
+        <activity
+            android:name=".start.IntroActivity"
+            android:exported="false"
+            android:theme="@style/Theme.meebaCustom" />
+        <activity
+            android:name=".home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.meebaCustom">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

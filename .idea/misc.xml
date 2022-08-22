@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/drawable-xhdpi/gradient.xml" value="0.1874361593462717" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/drawable-xhdpi/shape_button_rounded.xml" value="0.1874361593462717" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.147" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/drawable/ic_pickup.xml" value="0.1" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/drawable/indicator_active.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/drawable/indicator_inactive.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_base.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_destination.xml" value="0.1" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_get_data_two.xml" value="0.18" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_home.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_intro.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_login.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_main.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_sign_up.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/app_bar_main.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/custom_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/destination_list.xml" value="0.14" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/list_item.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/main_content.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/nav_header.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/request_list.xml" value="0.67" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/layout/slide_item_container.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/iSpace/AndroidStudioProjects/Ispace/Mawuli/Meeba/app/src/main/res/menu/nav_menu.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable-mdpi/loading_spinner.xml" value="0.1015" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1005" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable-xhdpi/shape_button_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable-xxxhdpi/gradient_spinner.xml" value="0.1" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable-xxxhdpi/ic_label.xml" value="0.1005" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable-xxxhdpi/ic_label_focused.xml" value="0.1435" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable-xxxhdpi/label_selector.xml" value="0.1005" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable/description_selector.xml" value="0.1455" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable/ic_arrow_drop_down_black_24dp.xml" value="0.151" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable/ic_close.xml" value="0.133" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable/ic_description_focused.xml" value="0.127" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable/ic_label_focused.xml" value="0.1" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/drawable/shape_dialog_bg_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_base.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_completed_request.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_completed_request2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_destination.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_how_to_pay.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_intro.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_momo_payment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_my_profile.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_sub_destination.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/activity_sub_request.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/app_bar_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/assignment_dialog_list_view.xml" value="1.1428571428571428" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/content_register_contact.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/custom_spinner_item.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/destination_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/dialog_progress.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/main_content.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/nav_header.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/request_completed_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/request_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/sub_complete_dialog_list_view.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/sub_completed_list_dialog.xml" value="0.13054830287206268" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/sub_destination_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/sub_request_completed_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/sub_request_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/sub_requests_completed_data.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/layout/sub_requests_completed_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/menu/menu_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yawom/AndroidStudioProjects/mawuli/Meeba/app/src/main/res/menu/nav_menu.xml" value="0.1634320735444331" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

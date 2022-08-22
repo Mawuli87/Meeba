@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Meeba</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="next">NEXT</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="company_name">Name: </string>
+    <string name="requirement_how_to_pay">Requirements to follow</string>
+    <string name="title_how_to_pay">How to Pay</string>
+    <string name="btn_save">Save</string>
+
+    <string-array name="items_network">
+        <item>MTN Mobile Money</item>
+        <item>Airtel Money</item>
+        <item>Tigo Cash</item>
+        <item>Vodafone Cash</item>
+        <item>Pay with Card</item>
+    </string-array>
+
+    <string name="hint_select_network">Select network</string>
+    <string name="hint_customer_name">Enter Mobile Money Name</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="btn_pay">Pay</string>
+    <string name="hint_token">token</string>
+    <string name="pay_with">Pay With</string>
+    <string-array name="items_how_to_pay">
+        <item>Pay With MOMO</item>
+        <item>Pay With CARD</item>
+        <item>How To Pay</item>
+    </string-array>
+
+    <string name="msg_dialog_payment_airtel_tigo">Dear Customer, you transaction has been initiated. You will receive a prompt shortly. Thank You.</string>
+
+    <string name="positive_button_txt">OK</string>
+    <string name="proceed_button_txt">I Have Code</string>
+    <string name="getvoucher_button_txt">Get Code</string>
+    <string name="negative_button_txt">Cancel</string>
+    <string name="input_prefill" />
+    <string name="input_hint">Enter your voucher code</string>
+
+    <string name="ussd_msg">Click Ok to dial *170# to commence approval of payment</string>
+    <string name="ussd_vodafone">Click Ok to dial *110# to start voucher code request only on Vodafone sim Card</string>
+
+</resources>
